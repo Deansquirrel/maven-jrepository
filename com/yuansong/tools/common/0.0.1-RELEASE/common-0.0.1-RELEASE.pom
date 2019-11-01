@@ -31,6 +31,15 @@
     </dependency>
   </dependencies>
   
+  <!-- 
+  deploy前提：maven的配置文件中，增加下面的节点（github登录信息）
+  <server>
+		<id>github</id>
+		<username>******</username>
+		<password>******</password>
+	</server> 
+	-->
+  
   <build>  
     <finalName>JTools-${project.artifactId}-${project.version}</finalName> 
     <plugins>
