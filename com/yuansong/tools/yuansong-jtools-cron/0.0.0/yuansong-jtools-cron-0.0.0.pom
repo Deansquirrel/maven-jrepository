@@ -18,7 +18,7 @@
   <repositories>
     <repository>
         <id>deansquirrel-maven-repo-release</id>
-        <url>https://raw.github.com/deansquirrel/maven-jrepository/master</url>
+        <url>https://raw.gitee.com/deansquirrel/maven-jrepository/master</url>
     </repository>
   </repositories>
 
