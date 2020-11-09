@@ -6,8 +6,7 @@
     <version>2.3.4.RELEASE</version>
   </parent>
   <groupId>com.yuansong.tools</groupId>
-  <artifactId>tools-lit</artifactId>
-  <!--<version>0.0.1</version>-->
+  <artifactId>tools-lit</artifactId>  
    <version>0.0.0</version> 
   <name>tools-lit</name>
   <description>Tools Lit</description>
