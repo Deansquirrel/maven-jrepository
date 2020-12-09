@@ -55,6 +55,11 @@
       <artifactId>spring-integration-mqtt</artifactId>
     </dependency>
     <!-- MQTT End -->
+    <dependency>
+                <groupId>com.yuansong.tools</groupId>
+                <artifactId>tools-common</artifactId>
+                <version>0.0.2</version>
+            </dependency>
 
   </dependencies>
 
