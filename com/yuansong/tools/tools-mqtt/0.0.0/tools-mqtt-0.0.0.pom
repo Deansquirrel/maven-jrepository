@@ -9,7 +9,7 @@
   </parent>
   <groupId>com.yuansong.tools</groupId>
   <artifactId>tools-mqtt</artifactId>
-  <!-- <version>0.0.3</version>--> 
+  <!-- <version>0.0.4</version>--> 
   <version>0.0.0</version> 
   <name>tools-mqtt</name>
   <description>tools mqtt</description>
