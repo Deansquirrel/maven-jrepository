@@ -19,7 +19,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <github.global.server>github</github.global.server>
         <springversion>2.3.7.RELEASE</springversion>
-        
+
         <tools.common>0.0.2</tools.common>
         <tools.db>0.0.2</tools.db>
         <tools.svrz5>0.0.1</tools.svrz5>
@@ -39,7 +39,7 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-log4j2</artifactId>
-            </dependency>
+        </dependency>
     </dependencies>
 
     <dependencyManagement>
@@ -102,7 +102,7 @@
             <!-- yuansong End -->
         </dependencies>
     </dependencyManagement>
-    
+
     <build>
         <finalName>${project.artifactId}-${project.version}</finalName>
         <plugins>
