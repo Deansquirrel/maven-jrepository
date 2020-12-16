@@ -1,0 +1,22 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>com.zillion.service</groupId>
+        <artifactId>zillion-service-dependencies</artifactId>
+        <version>0.0.0</version>
+    </parent>
+    <groupId>com.zillion.service.common</groupId>
+    <artifactId>zillion-service-common-parent</artifactId>
+    <!-- <version>0.0.0</version> -->
+    <packaging>pom</packaging>
+
+    <properties>
+        <java.version>1.8</java.version>
+    </properties>
+
+    <modules>
+        <module>zillion-service-common-facade</module>
+    </modules>
+</project>
