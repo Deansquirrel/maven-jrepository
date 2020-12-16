@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.zillion.service.common</groupId>
-        <artifactId>zillion-service-common-parent</artifactId>
-        <version>0.0.0</version>
+        <artifactId>zillion-service-common</artifactId>
+        <version>${appversion}</version>
     </parent>
     <artifactId>zillion-service-common-facade</artifactId>
     

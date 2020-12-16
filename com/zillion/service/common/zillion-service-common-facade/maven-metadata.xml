@@ -3,10 +3,10 @@
   <groupId>com.zillion.service.common</groupId>
   <artifactId>zillion-service-common-facade</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.0</release>
     <versions>
-      <version>0.0.1</version>
+      <version>0.0.0</version>
     </versions>
-    <lastUpdated>20201216022553</lastUpdated>
+    <lastUpdated>20201216055821</lastUpdated>
   </versioning>
 </metadata>
