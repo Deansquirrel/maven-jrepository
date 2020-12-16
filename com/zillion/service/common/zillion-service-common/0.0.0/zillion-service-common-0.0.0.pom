@@ -21,8 +21,7 @@
     </properties>
 
     <modules>
-        <module>zillion-service-common-facade</module>
-        <module>zillion-service-common-service</module>
+        <module>zillion-service-common-parent</module>
     </modules>
     
     <build>
