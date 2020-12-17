@@ -18,9 +18,9 @@
         <github.global.server>github</github.global.server>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <springversion>2.3.7.RELEASE</springversion>
-        <depversion>0.0.2</depversion>
+        <depversion>0.0.3</depversion>
 
-        <tools.common>0.0.2</tools.common>
+        <tools.common>0.0.3</tools.common>
         <tools.db>0.0.3</tools.db>
         <tools.svrz5>0.0.1</tools.svrz5>
         <tools.svrv3>0.0.1</tools.svrv3>
