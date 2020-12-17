@@ -5,11 +5,11 @@
     <parent>
         <groupId>com.zillion.service</groupId>
         <artifactId>zillion-service-dependencies</artifactId>
-        <version>0.0.0</version>
+        <version>0.0.3</version>
     </parent>
     <groupId>com.zillion.service.common</groupId>
     <artifactId>zillion-service-common</artifactId>
-    <version>${appversion}</version>
+    <version>0.0.1</version>
     <packaging>pom</packaging>
 
     <properties>
