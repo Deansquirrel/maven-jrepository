@@ -3,10 +3,10 @@
   <groupId>com.zillion.service.z5md</groupId>
   <artifactId>zillion-service-z5md</artifactId>
   <versioning>
-    <release>0.0.0</release>
+    <release>0.0.1</release>
     <versions>
-      <version>0.0.0</version>
+      <version>0.0.1</version>
     </versions>
-    <lastUpdated>20201217072905</lastUpdated>
+    <lastUpdated>20201217073454</lastUpdated>
   </versioning>
 </metadata>
