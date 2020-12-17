@@ -3,10 +3,10 @@
   <groupId>com.yuansong.tools</groupId>
   <artifactId>tools-mqtt</artifactId>
   <versioning>
-    <release>0.0.5</release>
+    <release>0.0.6</release>
     <versions>
-      <version>0.0.5</version>
+      <version>0.0.6</version>
     </versions>
-    <lastUpdated>20201210090205</lastUpdated>
+    <lastUpdated>20201217034428</lastUpdated>
   </versioning>
 </metadata>
