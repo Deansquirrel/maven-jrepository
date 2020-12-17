@@ -3,7 +3,7 @@
   <parent>
     <groupId>com.zillion.service.common</groupId>
     <artifactId>zillion-service-common</artifactId>
-    <version>${appversion}</version>
+    <version>0.0.2</version>
   </parent>
   <artifactId>zillion-service-common-parent</artifactId>
   
