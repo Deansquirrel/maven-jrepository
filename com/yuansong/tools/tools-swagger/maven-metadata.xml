@@ -3,10 +3,10 @@
   <groupId>com.yuansong.tools</groupId>
   <artifactId>tools-swagger</artifactId>
   <versioning>
-    <release>0.0.1</release>
+    <release>0.0.0</release>
     <versions>
-      <version>0.0.1</version>
+      <version>0.0.0</version>
     </versions>
-    <lastUpdated>20200807030311</lastUpdated>
+    <lastUpdated>20201223081610</lastUpdated>
   </versioning>
 </metadata>
