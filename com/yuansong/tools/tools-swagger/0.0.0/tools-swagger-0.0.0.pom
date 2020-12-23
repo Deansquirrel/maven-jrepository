@@ -24,18 +24,17 @@
 
   <dependencies>
     <dependency>
-      <groupId>org.springframework</groupId>
-      <artifactId>spring-context</artifactId>
-      <version>5.2.12.RELEASE</version>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot</artifactId>
+      <version>2.3.7.RELEASE</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
-      <groupId>org.slf4j</groupId>
-      <artifactId>jul-to-slf4j</artifactId>
-      <version>1.7.30</version>
-      <scope>compile</scope>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-configuration-processor</artifactId>
+      <optional>true</optional>
+      <version>2.3.7.RELEASE</version>
     </dependency>
-
     <dependency>
       <groupId>io.springfox</groupId>
       <artifactId>springfox-swagger2</artifactId>
@@ -47,9 +46,6 @@
       <version>2.9.2</version>
     </dependency>
   </dependencies>
-
-  <!-- deploy前提：maven的配置文件中，增加下面的节点（github登录信息） <server> <id>github</id> 
-    <username>******</username> <password>******</password> </server> -->
 
   <build>
     <finalName>${project.artifactId}-${project.version}</finalName>
@@ -119,5 +115,4 @@
       </plugin>
     </plugins>
   </build>
-
 </project>
