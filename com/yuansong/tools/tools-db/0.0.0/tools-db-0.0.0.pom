@@ -61,6 +61,11 @@
       <artifactId>sqljdbc4</artifactId>
       <version>3.0</version>
     </dependency>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.22</version>
+    </dependency>
   </dependencies>
 
   <!-- deploy前提：maven的配置文件中，增加下面的节点（github登录信息） <server> <id>github</id> 
