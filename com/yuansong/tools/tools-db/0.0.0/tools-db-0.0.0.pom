@@ -20,10 +20,10 @@
       <url>https://raw.github.com/deansquirrel/maven-jrepository/master</url>
     </repository>
     <repository>
-        <id>clojars</id>
-        <url>http://clojars.org/repo/</url>
+      <id>clojars</id>
+      <url>http://clojars.org/repo/</url>
     </repository>
-</repositories>
+  </repositories>
 
   <dependencies>
     <dependency>
@@ -57,9 +57,9 @@
       <version>1.9.6</version>
     </dependency>
     <dependency>
-      <groupId>com.microsoft.sqlserver</groupId>
+      <groupId>com.microsoft</groupId>
       <artifactId>sqljdbc4</artifactId>
-      <version>4.0</version>
+      <version>3.0</version>
     </dependency>
   </dependencies>
 
