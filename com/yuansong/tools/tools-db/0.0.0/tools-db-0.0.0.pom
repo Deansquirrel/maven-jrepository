@@ -66,6 +66,11 @@
       <artifactId>mysql-connector-java</artifactId>
       <version>8.0.22</version>
     </dependency>
+    <dependency>
+      <groupId>org.xerial</groupId>
+      <artifactId>sqlite-jdbc</artifactId>
+      <version>3.31.1</version>
+    </dependency>
   </dependencies>
 
   <!-- deploy前提：maven的配置文件中，增加下面的节点（github登录信息） <server> <id>github</id> 
