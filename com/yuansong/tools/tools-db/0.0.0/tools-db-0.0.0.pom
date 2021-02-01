@@ -19,7 +19,11 @@
       <id>deansquirrel-maven-repo-release</id>
       <url>https://raw.github.com/deansquirrel/maven-jrepository/master</url>
     </repository>
-  </repositories>
+    <repository>
+        <id>clojars</id>
+        <url>http://clojars.org/repo/</url>
+    </repository>
+</repositories>
 
   <dependencies>
     <dependency>
@@ -48,15 +52,19 @@
       <version>1.1.21</version>
     </dependency>
     <dependency>
-        <groupId>org.aspectj</groupId>
-        <artifactId>aspectjrt</artifactId>
-        <version>1.9.6</version>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjrt</artifactId>
+      <version>1.9.6</version>
+    </dependency>
+    <dependency>
+      <groupId>com.microsoft.sqlserver</groupId>
+      <artifactId>sqljdbc4</artifactId>
+      <version>4.0</version>
     </dependency>
   </dependencies>
 
   <!-- deploy前提：maven的配置文件中，增加下面的节点（github登录信息） <server> <id>github</id> 
-    <use
-      </version>rname>******</username> <password>******</password> </server> -->
+    <use </version>rname>******</username> <password>******</password> </server> -->
 
   <build>
     <finalName>${project.artifactId}-${project.version}</finalName>
